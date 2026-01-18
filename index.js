@@ -12,6 +12,11 @@ function decrement() {
     count -=1;
     countEl.textContent = count;
 }
+function reset() {
+    count = 0;
+    countEl.textContent *= 0;
+    saveEl.textContent = "Previous Entries: ";
+}
 
 function save() {
     let countStr = count + " - ";

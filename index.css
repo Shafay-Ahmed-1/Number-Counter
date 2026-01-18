@@ -35,6 +35,9 @@ button {
 #save-btn {
     background-color :grey;
 }
+#reset-btn {
+    background-color :red;
+}
 
 #save-el {
     font-weight: bold;
