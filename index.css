@@ -1,0 +1,9 @@
+.body {
+    background-image: url(Counter.jpg);
+    background-size: cover;
+    background-position : center;
+    background-repeat : no-repeat;
+    max-height : 100vh;
+    margin :auto;
+}
+
